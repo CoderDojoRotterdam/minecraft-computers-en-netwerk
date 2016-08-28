@@ -2,10 +2,48 @@
 
 Inhoud van deze instructies:
 
-1. Installatie
-2. Inhoud workshop
+1. Inhoud workshop
+2. Installatie
+
+## 1. Inhoud workshop
+
+### Samenvatting
+
+De volgende onderdelen worden tijdens deze workshop behandeld:
+
+- Bouwen van een computer met de basis onderdelen
+- Installeren van een besturingssysteem
+- Bouwen van een netwerk
+- Berichtjes sturen via het netwerk
+
+### Schets van de workshopinhoud
+
+1. Verbinden met de minecraft server;
+2. Ninja's worden gevraagd uit wat voor onderdelen een computer bestaat;
+3. De onderdelen worden genoteerd op een bord;
+4. In presentatievorm worden de onderdelen weergeven zoals zij in het spel voorkomen;
+	- Grafische kaart
+	- Geheugen
+	- Processor
+	- Netwerkkaart
+	- Hardeschijf
+	- (Beeldscherm)
+	- (Computerkast)
+	- (Toetsenbord)
+	- (Floppydrive)
+5. De ninja's bouwen hun eigen computer met de verkregen onderdelen (op aangewezen plekken);
+6. De ninja's worden gevraagd waarom de computer nog niet start en wat de foutmelding betekend.
+7. In presentatievorm wordt verteld dat de computer een besturingssysteem nodig heeft.
+8. De ninja's installeren het besturingssysteem via de verkregen floppy.
+
+### Extra's
+
+- Wil je verder zelf aan de slag met de Open Computers mod en kun je Engels? Neem dan een kijkje op de [wiki](http://ocdoc.cil.li/) voor meer informatie.
+
 
 ## 1. Installatie
+
+Deze instructies zijn voor de ninja's geschreven.
 
 ### Vereisten
 
@@ -34,14 +72,5 @@ Om Minecraft te installeren voor de Mac moet je in plaats van `Minecraft.msi`, `
 Voor zowel Mac als Linux heb je de terminal nodig om Minecraft Forge te installeren. Heb je hier geen ervaring mee? Vraag dan iemand om je te helpen. Gebruik het volgende commando om de Minecraft Forge installatie te starten: `java -jar forge-1.7.10-10.13.4.1558-1.7.10-installer.jar`.
 
 Als je niet weet hoe je de `.minecraft` map kunt vinden op Mac en Linux, lees dan het stukje hierboven (_Ik kan de .minecraft map niet vinden?!_). Let op dat voor Mac de map `minecraft` heet (dus zonder punt).
-
-## 2. Inhoud workshop
-
-
-
-### Extra's
-
-- Wil verder zelf aan de slag met de Open Computers mod en kun je Engels? Neem dan een kijkje op de [wiki](http://ocdoc.cil.li/) voor meer informatie.
-
 
 
