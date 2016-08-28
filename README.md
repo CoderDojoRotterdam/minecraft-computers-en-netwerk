@@ -47,7 +47,7 @@ Deze instructies zijn voor de ninja's geschreven.
 
 ### Vereisten
 
-Voordat je met de installatie begint heb je Minecraft en een Mojang account nodig. Je kunt via de officele website [Minecraft kopen](https://minecraft.net/en/store/minecraft/).
+Voordat je met de installatie begint heb je Minecraft en een Mojang account nodig. Je kunt via de officele website [Minecraft kopen](https://minecraft.net/en/store/minecraft/). Ook wordt er verwacht dat je weet hoe je Minecraft moet spelen.
 
 ### Installatie voor Windows-gebruikers
 
