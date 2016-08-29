@@ -11,35 +11,40 @@ Inhoud van deze instructies:
 
 De volgende onderdelen worden tijdens deze workshop behandeld:
 
-- Bouwen van een computer met de basis onderdelen
-- Installeren van een besturingssysteem
-- Bouwen van een netwerk
-- Berichtjes sturen via het netwerk
+- Bouwen van een computer met de basis onderdelen.
+- Installeren van een besturingssysteem.
+- Bouwen van een netwerk.
+- Berichtjes sturen via het netwerk.
 
 ### Schets van de workshopinhoud
 
-1. Verbinden met de minecraft server;
-2. Ninja's worden gevraagd uit wat voor onderdelen een computer bestaat;
-3. De onderdelen worden genoteerd op een bord;
-4. In presentatievorm worden de onderdelen weergeven zoals zij in het spel voorkomen;
+1. Verbinden met de minecraft server.
+2. Ninja's worden gevraagd uit wat voor onderdelen een computer bestaat.
+3. De onderdelen worden genoteerd op een bord.
+4. In presentatievorm worden de onderdelen weergeven zoals zij in het spel voorkomen.
+	- Bios
 	- Grafische kaart
 	- Geheugen
 	- Processor
 	- Netwerkkaart
 	- Hardeschijf
 	- (Beeldscherm)
-	- (Computerkast)
+	- (Computerkast, moederbord)
 	- (Toetsenbord)
 	- (Floppydrive)
-5. De ninja's bouwen hun eigen computer met de verkregen onderdelen (op aangewezen plekken);
+5. De ninja's bouwen hun eigen computer met de verkregen onderdelen (op aangewezen plekken).
 6. De ninja's worden gevraagd waarom de computer nog niet start en wat de foutmelding betekend.
 7. In presentatievorm wordt verteld dat de computer een besturingssysteem nodig heeft.
 8. De ninja's installeren het besturingssysteem via de verkregen floppy.
+9. De ninja's bouwen een netwerk met kabels die leiden naar netwerkswitches. Deze switches worden vervolgens verbonden met een server.
+10. De ninja's krijgen een floppy met een programma dat zij moeten starten.
+11. Als alle ninja's het programma gestart hebben, gebeurd er iets in het spel.
+12. De ninja's passen het programma aan.
+13. Als de ninja's het programma juist veranderd hebben, gebeurd er iets in het spel.
 
 ### Extra's
 
-- Wil je verder zelf aan de slag met de Open Computers mod en kun je Engels? Neem dan een kijkje op de [wiki](http://ocdoc.cil.li/) voor meer informatie.
-
+- Wil je verder zelf aan de slag met de Open Computers mod en kun je goed Engels? Neem dan een kijkje op de [wiki](http://ocdoc.cil.li/) voor meer informatie of zoek op _opencomputers_ op Youtube om te zien wat er verder nog allemaal mogelijk is.
 
 ## 1. Installatie
 
