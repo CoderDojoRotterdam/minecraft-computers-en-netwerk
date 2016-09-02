@@ -46,7 +46,7 @@ De volgende onderdelen worden tijdens deze workshop behandeld:
 
 - Wil je verder zelf aan de slag met de Open Computers mod en kun je goed Engels? Neem dan een kijkje op de [wiki](http://ocdoc.cil.li/) voor meer informatie of zoek op _opencomputers_ op Youtube om te zien wat er verder nog allemaal mogelijk is.
 
-## 1. Installatie
+## 2. Installatie
 
 Deze instructies zijn voor de ninja's geschreven.
 
