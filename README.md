@@ -10,7 +10,7 @@ Voordat je met de installatie begint heb je Minecraft en een Mojang account nodi
 
 ### Installatie voor Windows-gebruikers
 
-1. Download `workshop-windows.zip` en pak de bestanden uit.
+1. Download [workshop-windows.zip](installation/workshop-windows.zip) en pak de bestanden uit.
 2. Als je Minecraft nog __NIET__ op je computer hebt geïnstalleerd, installeer deze dan door `Minecraft.msi` te openen. Heb je Minecraft __WEL__ al geïnstalleerd? Ga dan naar de volgende stap.
 3. Installeer Minecraft Forge door `forge-1.7.10-10.13.4.1558-1.7.10-installer-win.exe` te openen. Druk op `OK` om de installatie te starten.
 4. Verplaats het `OpenComputers-MC1.7.10-1.6.0.7-rc.1-universal.jar` bestand naar de mods map. De mods map is te vinden in `C:\Users\NAAM_COMPUTER\AppData\Roaming\.minecraft\mods`. Als deze map nog niet bestaat, maak dan een nieuwe map met de naam `mods`. 
@@ -24,7 +24,7 @@ Je kunt in creative mode testen of de Open Computers mod werkt door een nieuwe w
 
 ### Installatie voor Mac- en linux-gebruikers
 
-Mac-gebruikers moeten `workshop-mac.zip` downloaden. Linux-gebruikers moeten `workshop-linux.zip` downloaden. Voor de installatie kunnen de stappen gevolgd worden voor Windows-gebruikers. Er zijn alleen wel een aantal verschillen:
+Mac-gebruikers moeten [workshop-mac.zip](installation/workshop-mac.zip) downloaden. Linux-gebruikers moeten [workshop-linux.zip](installation/workshop-linux.zip) downloaden. Voor de installatie kunnen de stappen gevolgd worden voor Windows-gebruikers. Er zijn alleen wel een aantal verschillen:
 
 Om Minecraft te installeren voor de Mac moet je in plaats van `Minecraft.msi`, `Minecraft.dmg` openen. Voor Linux gebruik je het commando `java -jar Minecraft.jar` om Minecraft te starten (installeren van Minecraft is voor Linux niet nodig).
 
