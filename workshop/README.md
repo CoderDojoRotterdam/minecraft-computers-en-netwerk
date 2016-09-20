@@ -30,12 +30,13 @@ Een deel van de workshop speelt zich af in het spel, verder wordt de workshop on
 5. (spel) De ninja's bouwen hun eigen computer met de verkregen onderdelen (op aangewezen plekken).
 6. (spel) De ninja's worden gevraagd waarom de computer nog niet start en wat de foutmelding betekend.
 7. (slideshow) Er wordt verteld dat de computer een besturingssysteem nodig heeft.
-8. (spel) De ninja's installeren het besturingssysteem via de verkregen floppy.
-9. (spel) De ninja's bouwen een netwerk met kabels die leiden naar netwerkswitches. Deze switches worden vervolgens verbonden met een server.
-10. (spel) De ninja's krijgen een floppy met een programma dat zij moeten starten.
-11. (spel) Als alle ninja's het programma gestart hebben, gebeurd er 'iets' in het spel.
-12. (spel) De ninja's passen het programma aan.
-13. (spel) Als de ninja's het programma juist veranderd hebben, gebeurd er 'iets' in het spel.
+8. (slideshow) De Ninja's wordt gevraagd hoe een besturingssysteem geinstalleerd moet worden.
+9. (spel) De ninja's installeren het besturingssysteem via de verkregen floppy.
+10. (spel) De ninja's bouwen een netwerk met kabels die leiden naar netwerkswitches. Deze switches worden vervolgens verbonden met een server.
+11. (spel) De ninja's krijgen een floppy met een programma dat zij moeten starten.
+12. (spel) Als alle ninja's het programma gestart hebben, gebeurd er 'iets' in het spel.
+13. (spel) De ninja's passen het programma aan.
+14. (spel) Als de ninja's het programma juist veranderd hebben, gebeurd er 'iets' in het spel.
 
 ## Extra's
 
