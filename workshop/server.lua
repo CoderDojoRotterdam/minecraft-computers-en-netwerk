@@ -3,9 +3,9 @@ local component = require("component")
 local sides = require("sides")
 
 local args = {...}
-local numUsers = args[1]
+local numUsers = tonumber(args[1])
 
-if numUsers == nil then
+if numUsers == nil or numUsers == 0 then
 	print("Please pass number of numUsers as argument. Program terminated.")
 	goto quit
 else
@@ -14,31 +14,49 @@ end
 
 local running = true
 local msgRed = {}
+local numRedMsg = 0
 local msgBlue = {}
+local numBlueMsg = 0
 
 component.modem.open(123)
 
-function handleMessages(msgTable, rAddr, msg)
-	for addr, color in pairs(msgTable) do
-		if addr != rAddr and msg != color then
-			table.insert(msgTable, {[rAddr] = color})
-		end
-	end
-end
-
 function handleEvent(eventID, lAddr, rAddr, port, d, msg)
 	if msg == "rood" then
-		handleMessages(msgRed, rAddr, msg)
+		-- count messages of unique users
+		if numRedMsg == 0 then
+			msgRed[rAddr] = msg
+			numRedMsg = numRedMsg + 1
+		else
+			for addr, message in pairs(msgRed) do
+				if addr ~= rAddr and msg ~= message then
+					msgRed[rAddr] = msg
+					numRedMsg = numRedMsg + 1
+				end
+			end
+		end
 
 		-- move to red
-		if #msgRed == numUsers then
+		if numRedMsg == numUsers then
+			print("Moving to red")
 			component.redstone.setOutput(sides.back, 15)
 		end
 	elseif msg == "blauw" then
-		handleMessages(msgBlue, rAddr, msg)
+		-- count messages of unique users
+		if numBlueMsg == 0 then
+			msgBlue[rAddr] = msg
+			numBlueMsg = numBlueMsg + 1
+		else
+			for addr, message in pairs(msgBlue) do
+				if addr ~= rAddr and msg ~= message then
+					msgBlue[rAddr] = msg
+					numBlueMsg = numBlueMsg + 1
+				end
+			end
+		end
 
 		-- move to blue
-		if #msgBlue == numUsers then
+		if numBlueMsg == numUsers then
+			print("Moving to blue")
 			component.redstone.setOutput(sides.back, 0)
 		end
 	end
