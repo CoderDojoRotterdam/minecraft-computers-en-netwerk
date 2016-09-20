@@ -1,5 +1,7 @@
 # Inhoud workshop
 
+Deze workshop heeft ook een [begeleidende presentatie](https://docs.google.com/presentation/d/1tO-MS6jTkrAm11WYD5W05qtPfRuiWUTAj8Yhml6FYM4/). Deze is op Google Drive te vinden.
+
 ## Samenvatting
 
 De volgende onderdelen worden tijdens deze workshop behandeld:
