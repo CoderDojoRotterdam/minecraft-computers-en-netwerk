@@ -61,11 +61,12 @@ Voor deze opdrachten heb je de wiki nodig. Deze is in het Engels.
 
 ### Opdrachten voor tweetallen
 - Probeer samen met iemand anders berichten naar elkaar te sturen.
-	- Gebruik de modem (netwerkkaart) API van de wiki: [ocdoc.cil.li/component:modem](ocdoc.cil.li/component:modem).
+	- Gebruik de modem (netwerkkaart) API van de wiki: [https://ocdoc.cil.li/component:modem](https://ocdoc.cil.li/component:modem).
 	- Je kunt een lege floppy/diskette gebruiken om de code te delen met elkaar.
 
 ### Individuele opdrachten
 (of samen achter 1 beeldscherm)
+
 1. Als je om je heen kijkt, zie je een huisje. Probeer de deur van dit huisje open te maken met je computer.
 	- Naast het huis vind je een boek met instructies.
 2. In de verte kun je een opening in de bergen zien. Hier staat een geolyzer. Gebruik deze geolyzer om te zoeken naar diamanten die zijn verstopt onder de grond.
@@ -73,7 +74,7 @@ Voor deze opdrachten heb je de wiki nodig. Deze is in het Engels.
 3. Als je om je heen kijkt zie je een berg met een ladder met daar boven twee zwevende eilandjes. Schrijf een script voor 1 robot en zorg dat de robot een sign/bordje op het zwevend eiland er boven plaatst.
 	- In de kist naast de robots vind je een boek met instructies.
 4. Gebruik een hologramprojector om een hologram te tekenen.
-	- Gebruik de hologram API van de wiki: [ocdoc.cil.li/component:hologram](ocdoc.cil.li/component:hologram).
+	- Gebruik de hologram API van de wiki: [https://ocdoc.cil.li/component:hologram](https://ocdoc.cil.li/component:hologram).
 	- De hologramprojector moet bovenop een kabel of ander computeronderdeel geplaatst worden.
 	- Hologramprojector moet uitgedeeld worden.
 
