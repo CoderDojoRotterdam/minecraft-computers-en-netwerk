@@ -61,7 +61,7 @@ Voor deze opdrachten heb je de wiki nodig. Deze is in het Engels.
 
 ### Opdrachten voor tweetallen
 - Probeer samen met iemand anders berichten naar elkaar te sturen.
-	- Gebruik de modem (netwerkkaart) API van de wiki: [https://ocdoc.cil.li/component:modem](https://ocdoc.cil.li/component:modem).
+	- Gebruik de modem (netwerkkaart) API van de wiki: [http://ocdoc.cil.li/component:modem](http://ocdoc.cil.li/component:modem).
 	- Je kunt een lege floppy/diskette gebruiken om de code te delen met elkaar.
 
 ### Individuele opdrachten
@@ -74,7 +74,7 @@ Voor deze opdrachten heb je de wiki nodig. Deze is in het Engels.
 3. Als je om je heen kijkt zie je een berg met een ladder met daar boven twee zwevende eilandjes. Schrijf een script voor 1 robot en zorg dat de robot een sign/bordje op het zwevend eiland er boven plaatst.
 	- In de kist naast de robots vind je een boek met instructies.
 4. Gebruik een hologramprojector om een hologram te tekenen.
-	- Gebruik de hologram API van de wiki: [https://ocdoc.cil.li/component:hologram](https://ocdoc.cil.li/component:hologram).
+	- Gebruik de hologram API van de wiki: [http://ocdoc.cil.li/component:hologram](http://ocdoc.cil.li/component:hologram).
 	- De hologramprojector moet bovenop een kabel of ander computeronderdeel geplaatst worden.
 	- Hologramprojector moet uitgedeeld worden.
 
@@ -82,4 +82,4 @@ Voor deze opdrachten heb je de wiki nodig. Deze is in het Engels.
 ## Zelfstandig aan de slag
 
 - Wil je verder zelf aan de slag met de Open Computers mod en kun je goed Engels? Neem dan een kijkje op de [wiki](http://ocdoc.cil.li/) voor meer informatie of zoek op _opencomputers_ op Youtube om te zien wat er verder nog allemaal mogelijk is.
-- Kijk op [github.com/OpenPrograms](https://github.com/OpenPrograms) voor de vele code voorbeelden.
+- Kijk op [github.com/OpenPrograms](http://github.com/OpenPrograms) voor de vele code voorbeelden.
